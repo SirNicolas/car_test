@@ -1,0 +1,9 @@
+{
+  "dbconfig": {
+    "db": "car_info",
+    "host": "localhost",
+    "user": "user",
+    "password": "password",
+    "testdb": "test_car_info"
+  }
+}
